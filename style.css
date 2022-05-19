@@ -1,5 +1,6 @@
 body{
   text-align: center;
+  background-color:pink;
 
 }
 .top{
@@ -18,4 +19,9 @@ h1{
   background-color: grey;
   border: 5px solid black;
   width: 100%
+}
+
+.me{
+  border: 5px solid black;
+
 }
