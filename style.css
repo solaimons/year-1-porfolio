@@ -6,6 +6,8 @@ body{
 .top{
   background-image: url('https://cdn.mos.cms.futurecdn.net/sdSHp2akMYc4EoZAoRE77k-1200-80.jpg');
   width: 1500px;
+  background-size: cover;
+
 
 }
 
