@@ -46,9 +46,9 @@ h3 {
 
   .col-sm-6 {
     border:5px solid black;
-    font-size: 70px;
+    font-size: 40px;
       color: white;
-      background-color: grey;
+      background-color:grey;
       text-align: center;
 
   }
